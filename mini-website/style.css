@@ -70,7 +70,7 @@
 }
 
 .background{
-    background:rgb(0, 0,0,0.7) url('C:/Users/HP/Pictures/bg.jpg');
+    background:rgb(0, 0,0,0.7) url('images/bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
